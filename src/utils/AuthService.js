@@ -4,8 +4,11 @@ import auth0 from 'auth0-js';
 const ID_TOKEN_KEY = 'id_token';
 const ACCESS_TOKEN_KEY = 'access_token';
 
-const CLIENT_ID = 'EeobY3jxsMoFREmqfmsZwAALQb73WeWm';
-const CLIENT_DOMAIN = 'unicoder.auth0.com';
+//const CLIENT_ID = 'EeobY3jxsMoFREmqfmsZwAALQb73WeWm';
+const CLIENT_ID = 'SZpJT6xqaCMvGzHFC0DjjMz9kBqERF10';
+//const CLIENT_DOMAIN = 'unicoder.auth0.com';
+const CLIENT_DOMAIN = 'miniflex.auth0.com';
+//const REDIRECT = ' http://locahost:3000/callback';
 const REDIRECT = ' https://miniflix.herokuapp.com/callback';
 const SCOPE = 'full:access';
 const AUDIENCE = 'http://miniflix.com';

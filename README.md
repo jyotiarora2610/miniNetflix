@@ -1,3 +1,7 @@
+## Mini Netflix
+This project provides the functionality to upload videos(maximum time limit of 20 seconds) with login and view the uploaded videos without login.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
